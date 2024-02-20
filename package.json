@@ -1,0 +1,14 @@
+{
+  "name": "meu-alelo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "Aline Macedo",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^13.6.2"
+  }
+}
